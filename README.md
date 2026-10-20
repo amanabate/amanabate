@@ -85,9 +85,7 @@
 
 </div>
 -->
----
 
----
 ## 📈 Profile Summary
 
 <div align="center">
@@ -100,7 +98,7 @@
 ---
 
 <div align="center">
-## 🐍 Contribution Snake
+#🐍 Contribution Snake
 
 <div align="center">
 <picture>
