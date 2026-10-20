@@ -48,7 +48,7 @@
 
 ---
 
-
+<!--
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -63,7 +63,7 @@
 <a href="https://github.com/amanabate/A2SV-DSA-Solutions"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabate&repo=A2SV-DSA-Solutions&theme=tokyonight&hide_border=true&border_radius=12" alt="A2SV-DSA-Solutions" /></a>
 
 </div>
-
+-->
 ---
 
 
