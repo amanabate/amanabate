@@ -1,16 +1,83 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**amanabate/amanabate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Amanuel%20Abate&fontSize=56&fontColor=00d4ff&fontAlignY=38&desc=Software%20Engineer%20%7C%20React%20and%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=ffffff" width="100%" alt="header" />
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+web+apps+from+idea+to+deployment;React+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;Open+for+freelance+work" alt="typing" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/amanuel-abate-806093327/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://t.me/AmanA1928"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=amanabate&label=Visitors&color=00d4ff&style=flat-square" alt="views" />
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 Software Engineering, **Haramaya University**
+- 📍 Addis Ababa, Ethiopia
+- 💻 I build web apps and management systems with **React, Next.js, Node.js and PostgreSQL**
+- 🧠 Practicing data structures and algorithms with **A2SV**
+- 🤝 Open to freelance projects, internships and open-source collaboration
+- 📫 Reach me on **Telegram: [@AmanA1928](https://t.me/AmanA1928)**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<p><b>Frontend</b></p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" alt="frontend" />
+
+<p><b>Backend</b></p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="backend" />
+
+<p><b>Database</b></p>
+<img src="https://skillicons.dev/icons?i=postgres,prisma" alt="database" />
+
+<p><b>Mobile and Tools</b></p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vscode" alt="tools" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| [🌍 Intern-Link](https://github.com/banadawit/Intern-Link) | Internship management platform connecting students, universities and companies | Next.js, Node.js, Express, PostgreSQL, Prisma, Flutter |
+| [🎓 Harmony College](https://github.com/Tolera314/harmony_college) | College management system (team project) | Next.js, Node.js, Express, PostgreSQL, Prisma TypeScript |
+| [🧭 EthioUniversity-Navigator](https://github.com/amanabate/EthioUniversity-Navigator) | Helps students explore Ethiopian universities | React.js | TypeScript
+| [✉️ Letter-Management-System](https://github.com/amanabate/Letter-Management-System) | Create, send, track and archive official letters |MERN Stack | TypeScript |
+| [📖 HarvestHub](https://github.com/amanabate/HarvestHub) | Christian educational platform for Scripture study |Next.js | TypeScript |
+| [🧠 A2SV-DSA-Solutions](https://github.com/amanabate/A2SV-DSA-Solutions) | Data structures and algorithms solutions | Python |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=amanabate&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanabate&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📬 Have a project? Let's talk.
+
+<a href="https://t.me/AmanA1928"><img src="https://img.shields.io/badge/Message_Me_on_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="footer" />
+
+</div>
