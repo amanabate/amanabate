@@ -83,6 +83,17 @@
 <img src="https://raw.githubusercontent.com/amanabate/amanabate/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
 </div>
 
+
+---
+## 📈 Profile Summary
+
+<div align="center">
+<img width="48%" src="https://raw.githubusercontent.com/amanabate/amanabate/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+<img width="48%" src="https://raw.githubusercontent.com/amanabate/amanabate/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+<img width="48%" src="https://raw.githubusercontent.com/amanabate/amanabate/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+<img width="48%" src="https://raw.githubusercontent.com/amanabate/amanabate/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+</div>
+
 ---
 
 <div align="center">
