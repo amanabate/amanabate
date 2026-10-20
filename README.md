@@ -73,7 +73,17 @@
 ---
 
 <div align="center">
+## 🐍 Contribution Snake
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amanabate/amanabate/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amanabate/amanabate/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/amanabate/amanabate/output/github-snake-dark.svg" />
+</picture>
+</div>
+
+---
 ### 📬 Have a project? Let's talk.
 
 <a href="https://t.me/AmanA1928"><img src="https://img.shields.io/badge/Message_Me_on_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
