@@ -65,13 +65,16 @@
 </div>
 
 ---
+<!--
+
 ## 🏙️ 3D Contributions
 
-#<div align="center">
-#<img src="https://raw.githubusercontent.com/amanabate/amanabate/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
-#</div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/amanabate/amanabate/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+</div>
 
 ---
+
 
 ## 📊 GitHub Stats
 
@@ -81,7 +84,7 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanabate&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="languages" />
 
 </div>
-
+-->
 ---
 
 ---
