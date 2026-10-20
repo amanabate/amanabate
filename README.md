@@ -48,17 +48,23 @@
 
 ---
 
+
 ## 🚀 Featured Projects
 
-| Project | What it does | Tech |
-|---|---|---|
-| [🌍 Intern-Link](https://github.com/banadawit/Intern-Link) | Internship management platform connecting students, universities and companies | Next.js, Node.js, Express, PostgreSQL, Prisma, Flutter |
-| [🎓 Harmony College](https://github.com/Tolera314/harmony_college) | College management system (team project) | Next.js, Node.js, Express, PostgreSQL, Prisma TypeScript |
-| [🧭 EthioUniversity-Navigator](https://github.com/amanabate/EthioUniversity-Navigator) | Helps students explore Ethiopian universities | React.js | TypeScript
-| [✉️ Letter-Management-System](https://github.com/amanabate/Letter-Management-System) | Create, send, track and archive official letters |MERN Stack | TypeScript |
-| [📖 HarvestHub](https://github.com/amanabate/HarvestHub) | Christian educational platform for Scripture study |Next.js | TypeScript |
-| [🧠 A2SV-DSA-Solutions](https://github.com/amanabate/A2SV-DSA-Solutions) | Data structures and algorithms solutions | Python |
+<div align="center">
 
+<a href="https://github.com/banadawit/Intern-Link"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=banadawit&repo=Intern-Link&theme=tokyonight&hide_border=true&border_radius=12" alt="Intern-Link" /></a>
+<a href="https://github.com/Tolera314/harmony_college"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tolera314&repo=harmony_college&theme=tokyonight&hide_border=true&border_radius=12" alt="Harmony College" /></a>
+
+<a href="https://github.com/amanabate/EthioUniversity-Navigator"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabate&repo=EthioUniversity-Navigator&theme=tokyonight&hide_border=true&border_radius=12" alt="EthioUniversity-Navigator" /></a>
+<a href="https://github.com/amanabate/Letter-Management-System"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabate&repo=Letter-Management-System&theme=tokyonight&hide_border=true&border_radius=12" alt="Letter-Management-System" /></a>
+
+<a href="https://github.com/amanabate/HarvestHub"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabate&repo=HarvestHub&theme=tokyonight&hide_border=true&border_radius=12" alt="HarvestHub" /></a>
+<a href="https://github.com/amanabate/A2SV-DSA-Solutions"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=amanabate&repo=A2SV-DSA-Solutions&theme=tokyonight&hide_border=true&border_radius=12" alt="A2SV-DSA-Solutions" /></a>
+
+</div>
+
+---
 ---
 
 ## 📊 GitHub Stats
