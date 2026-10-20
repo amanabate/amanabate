@@ -77,6 +77,13 @@
 </div>
 
 ---
+## 🏙️ 3D Contributions
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/amanabate/amanabate/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+</div>
+
+---
 
 <div align="center">
 ## 🐍 Contribution Snake
